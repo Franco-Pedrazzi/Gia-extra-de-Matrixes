@@ -62,5 +62,5 @@ let xm=0;
  
 }
    
-  console.log( RailFence("19",10))
+  console.log( RailFence("LosPicaPiedras ",10))
  
